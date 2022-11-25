@@ -1,4 +1,4 @@
-# LearnDL_Dive_Into_Deep_Learning
+# Learn Deep Learning - Dive Into Deep Learning
 
 <img src="images/d2dl.jpg" weight="70%" height=70%>
 
