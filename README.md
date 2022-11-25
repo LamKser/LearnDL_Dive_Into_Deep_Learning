@@ -1,2 +1,5 @@
 # LearnDL_Dive_Into_Deep_Learning
-* Link: [Dive into Deep Learning](https://d2l.ai/index.html)
+
+<img src="images/d2dl.jpg" weight="70%" height=70%>
+
+### Link: [Dive into Deep Learning](https://d2l.ai/index.html)
